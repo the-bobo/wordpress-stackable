@@ -1,4 +1,4 @@
-FROM tutum/wordpress-stackable:latest
+FROM index.docker.io/tutum/wordpress-stackable:latest
 
 # Add an initial data which will be automatically loaded when creating the database for the first time
 # ADD initial_db.sql /initial_db.sql

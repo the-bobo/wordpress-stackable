@@ -1,3 +1,8 @@
+tutumcloud/wordpress-stackable
+============================
+
+Edited by github.com/the-bobo following suggestion in the readme below for use as a base image.
+
 tutum-docker-wordpress-nosql
 ============================
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/)
